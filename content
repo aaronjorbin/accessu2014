@@ -1,0 +1,88 @@
+Understanding Color
+Color is the OG of Progressive&nbsp;Enhancement
+img/color-bars.jpg
+We Remember Colors
+Coca-Cola
+University of Texas
+Maize and Blue
+Science And Art
+Science
+What is Color?
+Color is About Light
+Color is Light Reflection
+Different&nbsp;Wavelengths<br />=<br/>Different&nbsp;Colors
+Color is Perceived by Cones
+Art
+Colors Inspire Feelings
+Colors Have Many Meanings
+Science And Art
+Warm vs. Cool Colors
+Warm
+Red, Orange, Yellow
+Cool
+Purple*, Blue, Green*
+Warm&nbsp;Implies<br>Passion
+Warm&nbsp;Implies<br>Energy
+Warm&nbsp;Implies<br>Happiness
+Cool&nbsp;Implies<br>Calm
+Cool&nbsp;Implies<br>Professional
+International Color Perception
+Red Means Stop
+Red Means Joy
+White is for Weddings
+Red is for Weddings
+Black is for Funerals
+White is for Funerals
+Color Vs. Color
+Colors Change Each Other
+img/260px-ColourIllusion2.jpg
+Colors Change Each Other
+Color in Accessability
+People See Colors Differently
+Color Cones
+Monochromacy
+Dichromacy 
+Anomalous Trichromacy 
+Different Monitors
+Different Lighting
+Different Devices
+WCAG 2.0 1.4.1 Level A
+Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element
+Shapes, Words, Colors
+WCAG 2.0 1.4.3 Level AA
+The visual presentation of text and images of text has a contrast ratio of at least 4.5:1, except
+Large Text (18+&nbsp;point or 14+&nbsp;bold&nbsp;point) 
+3:1
+Incidental/Pictorial
+Logotypes
+WCAG 2.0 1.4.6 Level AA
+7:1
+Large Text - 4.5:1
+What Is a contrast Ratio?
+MATH!
+#99000
+153,00,00
+0.6,0,0
+#bada55
+186,218,85
+0.72,0.85,0.33
+L&nbsp;=&nbsp;0.2126&nbsp;*&nbsp;R&nbsp;+&nbsp;0.7152&nbsp;*&nbsp;G&nbsp;+&nbsp;0.0722&nbsp;*&nbsp;B
+R, G, B Not so simple
+if&nbsp;(&nbsp;R&nbsp;<=&nbsp;0.03928)<br />R&nbsp;=&nbsp;R/12.92<br />else<br />R&nbsp;((R&nbsp;+&nbsp;0.055)/1.055)^2.4
+Lumiance Difference
+Tools
+Apoc
+Easy Contrast Ratio
+Colour Contrast Analyser
+Sim Daltonism
+Practical Colors
+Less is Often More
+"Click the Red Button"
+Consider Internationalization 
+Color Interaction
+Summary
+Don't Rely on Color
+Color Has Meaning
+People See Color Differently
+Color Contrast
+Theory of Colours by Johann Goethe
